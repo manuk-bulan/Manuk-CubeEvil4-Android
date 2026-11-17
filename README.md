@@ -173,5 +173,3 @@ If ManukCubeEvil4 helps you and you want to support further development:
   You need your own legally obtained copy of the game.
 - **No texture packs.** No replacement textures are included or linked.
 - **No warranty.** The app is provided "as is", without any warranty. Use it at your own risk.
-- **Rights holders.** If you represent Capcom, Nintendo or CRI Middleware and have concerns about this project,
-  please open an issue or contact the maintainer on [Telegram](https://t.me/re4andriyanblaze); we will respond promptly.
