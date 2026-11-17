@@ -115,7 +115,7 @@ it: the remake or one of the official re-releases.
 
 ## How to use
 
-1. Download the APK from **[Releases]([https://github.com/manuk-bulan/Manuk-CubeEvil4-Android/releases])**, install it
+1. Download the APK from **[Releases](https://github.com/manuk-bulan/Manuk-CubeEvil4-Android/releases)**, install it
    and open **ManukCubeEvil4**.
 2. Allow **All files access** when asked.
 3. Put your discs into `ManukCubeEvil4/disc1` and `ManukCubeEvil4/disc2` (ISO, GCM, NKit ISO, RVZ or a Dolphin
