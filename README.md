@@ -12,8 +12,7 @@
 
 **[WHAT'S NEW](#whats-new-in-the-manuk-bulan-edition) | [REQUIREMENTS](#requirements) | [HOW TO USE](#how-to-use) | [COMMUNITY](#community) | [RELEASES](https://github.com/manuk-bulan/CubeEvil4-Android/releases)**
 
-**ManukCubeEvil4** is a modded build of **[CubeEvil4](https://github.com/Andiweli/CubeEvil4-Android)** by
-Andreas "Andiweli" Stürmer: the native Android port of the Resident Evil 4 GameCube prototype
+**ManukCubeEvil4** is a modded build of **[CubeEvil4](https://github.com/Andiweli/CubeEvil4-Android)** by "Andiweli" the native Android port of the Resident Evil 4 GameCube prototype
 (`G4BE08` Nov 2004 debug build), with controller support and OpenGL ES 3 / Vulkan (experimental).
 It adds features for players who like to tinker and mod.
 
